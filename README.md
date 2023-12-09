@@ -1,4 +1,4 @@
-<h2 align="left" 	--bs-danger >Hi 👋! My name is Pranav Dhangar and I'm a  Fullstack Developer</h2>
+<h2 align="left">Hi 👋! My name is Pranav Dhangar and I'm a  Fullstack Developer</h2>
 
 ###
 

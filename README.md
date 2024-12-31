@@ -3,7 +3,7 @@ Hello! I'm Pranav Dhangar, a passionate MERN stack developer skilled in building
 
     🌟 What I Bring:
         Proficiency in MongoDB, Express.js, React.js, and Node.js.
-        Strong knowledge of data structures and algorithms, with over 150+ solved problems demonstrating my problem-solving skills.
+        Strong knowledge of data structures and algorithms, with over 200+ solved problems demonstrating my problem-solving skills.
         Hands-on experience creating dynamic and responsive web applications.
         Knowledge of clean, maintainable code with an emphasis on performance and scalability.
 

@@ -1,22 +1,31 @@
 # 💫 About Me:
-Hello! I'm Pranav Dhangar, a passionate MERN stack developer skilled in building robust and dynamic web applications. As a full-stack developer, I specialize in crafting seamless user experiences on the frontend and developing efficient backend systems using Node.js.
+👋 Hello! I'm Pranav Dhangar
 
-    🌟 What I Bring:
-        Proficiency in MongoDB, Express.js, React.js, and Node.js.
-        Strong knowledge of data structures and algorithms, with over 200+ solved problems demonstrating my problem-solving skills.
-        Hands-on experience creating dynamic and responsive web applications.
-        Knowledge of clean, maintainable code with an emphasis on performance and scalability.
+I'm a passionate MERN stack developer skilled in building robust and dynamic web applications. As a full-stack developer, I specialize in:
 
-    🚀 What I've Built:
-        A blogging platform enabling users to create, read, update, and delete blogs.
-        An NFT marketplace leveraging Solidity, IPFS, and Ethereum for secure transactions.
-        An eCommerce backend system with advanced cart and user management features.
+    ✨ Crafting seamless user experiences on the frontend.
+    ⚙️ Developing efficient backend systems using Node.js.
 
-    📌 Looking For:
-    A challenging role where I can contribute as a MERN stack developer, collaborate with a talented team, and grow my skills in full-stack development.
+🌟 What I Bring
 
-    📫 Let's Connect:
-    I'm open to job opportunities, internships, and collaborations. Feel free to email me at pranavdhangar11@gmail.com !
+    🔹 Proficiency: MongoDB, Express.js, React.js, and Node.js.
+    🔹 Problem-Solving: Strong knowledge of data structures and algorithms, with 200+ solved questions showcasing my skills.
+    🔹 Development Experience: Hands-on creation of dynamic and responsive web applications.
+    🔹 Code Quality: Writing clean, maintainable code with a focus on performance and scalability.
+
+🚀 What I've Built
+
+    📝 Blogging Platform: Allows users to create, read, update, and delete blogs.
+    🛒 E-commerce Backend: Advanced cart and user management features for seamless shopping experiences.
+    🌐 NFT Marketplace: Developed with Solidity, IPFS, and Ethereum for secure transactions.
+
+📌 Looking For
+
+🎯 A challenging role where I can contribute as a MERN stack developer, collaborate with a talented team, and grow my skills in full-stack development.
+📫 Let's Connect!
+
+💌 Open to job opportunities, internships, and collaborations!
+📧 Email me at: pranavdhangar11@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pranavv19_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-dhangar-26b67a220) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranavv04) 

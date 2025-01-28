@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello! I'm Pranav Dhangar
 
-I'm a passionate MERN stack developer skilled in building robust and dynamic web applications. As a full-stack developer, I specialize in:
+A full-stack developer, I specialize in:
 
 	✨ Crafting seamless user experiences on the frontend.
 	⚙️ Developing efficient backend systems using Node.js.
